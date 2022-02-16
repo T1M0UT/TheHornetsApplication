@@ -1,2 +1,2 @@
 # TheHornetsApplication
-"The Hornets" student team's application
+> "The Hornets" student team's application
