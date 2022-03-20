@@ -14,14 +14,14 @@ DECANATS:
 
 Converting .jpeg into .txt: https://github.com/tesseract-ocr/tesseract
 
-Raw data:
-![alt text](https://github.com/T1M0UT/TheHornetsApplication/blob/main/exmpl/starting.png?raw=true)
-Final look:
-![alt text](https://github.com/T1M0UT/TheHornetsApplication/blob/main/exmpl/final.png?raw=true)
+Raw data:<br />
+![alt text](https://github.com/T1M0UT/TheHornetsApplication/blob/main/exmpl/starting.png?raw=true)<br />
+Final look:<br />
+![alt text](https://github.com/T1M0UT/TheHornetsApplication/blob/main/exmpl/final.png?raw=true)<br />
+<br />
 
-
-Contributors:
-Кирило Шаманський
-Катерина Коваль
-Анастасія Петрович
+Contributors:<br />
+Кирило Шаманський<br />
+Катерина Коваль<br />
+Анастасія Петрович<br />
 Маркіян Круглій
