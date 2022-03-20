@@ -3,7 +3,7 @@
 ## Stage №0
 > Data parsing and the first preparation
 
-We converted .jpeg photos, consisting all data needed, into the .txt files. Then transformed those files with raw data into the readable complete dataset. The final process was about transforming .txt files into .json for the next integration into the app
+We converted .jpeg photos, consisting of all data needed, into the .txt files. Then transformed those files with raw data into the readable complete dataset. The final step was transformation of .txt files into .json in order to integrate them into the app
 
 > sources and results can be found in [data](data)
 
