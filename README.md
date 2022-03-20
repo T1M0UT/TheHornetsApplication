@@ -10,14 +10,14 @@ We converted .jpeg photos, consisting all data needed, into the .txt files. Then
 DECANATS:
 * Voinylivskyi
 * Halytskyi
-* Univskyi
+* Lvivskyi
 
 Converting .jpeg into .txt: https://github.com/tesseract-ocr/tesseract
 
 Raw data:
-![alt text](https://github.com/T1M0UT/TheHornetsApplication/exmpl/starting.png?raw=true)
+![alt text](https://github.com/T1M0UT/TheHornetsApplication/blob/main/exmpl/starting.png?raw=true)
 Final look:
-![alt text](https://github.com/T1M0UT/TheHornetsApplication/exmpl/final.png?raw=true)
+![alt text](https://github.com/T1M0UT/TheHornetsApplication/blob/main/exmpl/final.png?raw=true)
 
 
 Contributors:
