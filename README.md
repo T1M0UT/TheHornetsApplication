@@ -5,7 +5,8 @@
 
 We converted .jpeg photos, consisting all data needed into the .txt files. Then transformed those files with raw data into the readable complete dataset. The final process was about transforming .txt files into .json for the next integration into the app
 
-> sources and results can be found in [data](ThehornetsApplication/main/data)
+> sources and results can be found in [data](data)
+
 DECANATS:
 * Voinylivskyi
 * Halytskyi
